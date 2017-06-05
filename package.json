@@ -1,0 +1,28 @@
+{
+  "name": "yith2kdbx",
+  "version": "0.0.1",
+  "preferGlobal": true,
+  "author": "Lorenzo Gil Sanchez <lorenzo.gil.sanchez@gmail.com>",
+  "description": "A command-line converter from Yith Library to Keepassx",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lorenzogil/yith2kdbx"
+  },
+  "keywords": [
+    "cli",
+    "yith",
+    "yithlibrary",
+    "password",
+    "kdbx"
+  ],
+  "dependencies": {
+    "commander": "2.9.0",
+    "prompt": "1.0.0",
+    "sjcl": "1.0.6",
+    "uuid4": "1.0.0"
+  },
+  "bin": {
+    "yith": "./yith2kdbx"
+  }
+}
