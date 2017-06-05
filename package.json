@@ -4,7 +4,7 @@
   "preferGlobal": true,
   "author": "Lorenzo Gil Sanchez <lorenzo.gil.sanchez@gmail.com>",
   "description": "A command-line converter from Yith Library to Keepassx",
-  "license": "MIT",
+  "license": "GPLv3",
   "repository": {
     "type": "git",
     "url": "https://github.com/lorenzogil/yith2kdbx"
